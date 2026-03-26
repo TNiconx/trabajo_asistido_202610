@@ -1,14 +1,14 @@
 # trabajo_asistido_202610
 Reposito de la Clase de Trabajo Asistido. 2026/03/26
 
-Felices, estamos haciendo el redme en la clase.
+JUAN, JUAN JUAN.
 
-# Título principal (H1)
-## Subtítulo (H2)
-### Sub-subtítulo (H3)
-#### Nivel 4 (H4)
-##### Nivel 5 (H5)
-###### Nivel 6 (H6)
+# JUAN (H1)
+## JUAN (H2)
+### JUAN (H3)
+#### JUAN (H4)
+##### JUAN (H5)
+###### JUAN (H6)
 
-Imagen simple
+
 ![Texto alternativo](caballo01.jpg)
