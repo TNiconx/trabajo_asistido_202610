@@ -12,4 +12,4 @@ JUAN, JUAN JUAN.
 
 
 ![Texto alternativo](caballo01.jpg)
-![Logo]([https://github.com/rotabori/ensayo001/blob/main/carrito01.jp](https://cl.pinterest.com/mateuchi1008/caballo-juan/))
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jp](https://cl.pinterest.com/mateuchi1008/caballo-juan/)
