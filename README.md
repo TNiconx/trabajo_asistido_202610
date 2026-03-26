@@ -12,4 +12,17 @@ JUAN, JUAN JUAN.
 
 
 ![Texto alternativo](caballo01.jpg)
+
 ![Logo](https://i.pinimg.com/564x/59/ae/e0/59aee0880c5c77b943887da7ceb8aba4.jpg)
+
+
+
+**JUAN**
+
+*JUAN*
+
+~~JUAN~~
+
+`JUAN`
+
+> JUAN
